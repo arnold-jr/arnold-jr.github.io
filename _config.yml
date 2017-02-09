@@ -22,7 +22,7 @@ url: "https://arnold-jr.github.io/" # the base hostname & protocol for your site
   #e.g. http://example.com
 twitter_username: marmotman 
 github_username: arnold-jr 
-google_analytics: true
+google_analytics: UA-91651753-1
 
 # Build settings
 markdown: kramdown
